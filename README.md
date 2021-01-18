@@ -1,0 +1,2 @@
+# Times-Series-Analysis
+Tasks :-  1. Download the csv file for time series data about Covid-19 cases in India. 2. Pre-process the data to check about any missing data. 3. Plot the time series to visualise it. 4. Identify the trend, seasonality and remainder parts of the time series. 5. Identify the SARIMAX parameters 6. Forecast the time series for next 100 days. 7. Plot your forecasted data along with the original data.
